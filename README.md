@@ -3,7 +3,6 @@ Hi there 👋
 I'm a **Esteban De la Rosa**, a Software Engineer from the Dominican Republic 🌴🇩🇴.
 - 👨🏽‍💻 Software Engineer at [Vivial](https://vivial.net//)
 - 😊 Willing to contribute to opensource development projects
-- 🌱 I’m currently learning React.js on [EpicReact](https://epicreact.dev) and getting into the Frontend world
 - 💬 Ask me about: Node.js, PHP, Testing, Clean code and Backend technologies
 - 📫 Reach me: <a href = "mailto: hi@estebandelarosa.dev">hi@estebandelarosa.dev</a>
 
